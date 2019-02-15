@@ -27,3 +27,8 @@ double-click - switch multitrack to single
 cmd + K - split clip at playhead
 cmd + Z - undo last action
 cmd + S - save
+
+# Note
+
+sound effects - 
+http://soundfx.bournemouth.ac.uk/
