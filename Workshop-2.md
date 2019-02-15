@@ -32,3 +32,7 @@ cmd + S - save
 
 sound effects - 
 http://soundfx.bournemouth.ac.uk/
+
+# Homework
+
+edit VoxPop into 1-minute clip
