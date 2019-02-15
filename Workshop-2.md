@@ -1,5 +1,8 @@
 # Adobe Audition
 
+adobe audition cc 2018
+version 11.1.0
+
 single/waveform editing is referred to as "destructive" editing
     making permanent/non-reversible changes
 multitrack editing is referred to as "non-destructive" editing
