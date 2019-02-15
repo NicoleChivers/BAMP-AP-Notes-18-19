@@ -23,3 +23,4 @@ M - putting marker where playhead is
 double-click - switch multitrack to single
 cmd + K - split clip at playhead
 cmd + Z - undo last action
+cmd + S - save
