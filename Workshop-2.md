@@ -11,7 +11,7 @@ multitrack editing is referred to as "non-destructive" editing
 audio levels should be between -12db and -3db at a maximum
 monitor with you eyes and ears
 
-avoid frequency jumps on audio, cut t "zero crossing" (on line)
+avoid frequency jumps on audio, cut to "zero crossing" (on line)
 never delete "silence" (background noise)
 
 save each audio file individually
